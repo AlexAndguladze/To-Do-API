@@ -1,0 +1,15 @@
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Application\bin\Debug\net6.0\ToDo.Application.deps.json
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Application\bin\Debug\net6.0\ToDo.Application.dll
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Application\bin\Debug\net6.0\ToDo.Application.pdb
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Application\bin\Debug\net6.0\ToDo.Domain.dll
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Application\bin\Debug\net6.0\ToDo.Domain.pdb
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Application\obj\Debug\net6.0\ToDo.Application.csproj.AssemblyReference.cache
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Application\obj\Debug\net6.0\ToDo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Application\obj\Debug\net6.0\ToDo.Application.AssemblyInfoInputs.cache
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Application\obj\Debug\net6.0\ToDo.Application.AssemblyInfo.cs
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Application\obj\Debug\net6.0\ToDo.Application.csproj.CoreCompileInputs.cache
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Application\obj\Debug\net6.0\ToDo.Application.csproj.CopyComplete
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Application\obj\Debug\net6.0\ToDo.Application.dll
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Application\obj\Debug\net6.0\refint\ToDo.Application.dll
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Application\obj\Debug\net6.0\ToDo.Application.pdb
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Application\obj\Debug\net6.0\ref\ToDo.Application.dll

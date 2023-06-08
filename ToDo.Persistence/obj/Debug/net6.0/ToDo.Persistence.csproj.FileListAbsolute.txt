@@ -1,0 +1,17 @@
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Persistence\bin\Debug\net6.0\ToDo.Persistence.deps.json
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Persistence\bin\Debug\net6.0\ToDo.Persistence.runtimeconfig.json
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Persistence\bin\Debug\net6.0\ToDo.Persistence.dll
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Persistence\bin\Debug\net6.0\ToDo.Persistence.pdb
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Persistence\bin\Debug\net6.0\ToDo.Domain.dll
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Persistence\bin\Debug\net6.0\ToDo.Domain.pdb
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Persistence\obj\Debug\net6.0\ToDo.Persistence.csproj.AssemblyReference.cache
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Persistence\obj\Debug\net6.0\ToDo.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Persistence\obj\Debug\net6.0\ToDo.Persistence.AssemblyInfoInputs.cache
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Persistence\obj\Debug\net6.0\ToDo.Persistence.AssemblyInfo.cs
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Persistence\obj\Debug\net6.0\ToDo.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Persistence\obj\Debug\net6.0\ToDo.Persistence.csproj.CopyComplete
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Persistence\obj\Debug\net6.0\ToDo.Persistence.dll
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Persistence\obj\Debug\net6.0\refint\ToDo.Persistence.dll
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Persistence\obj\Debug\net6.0\ToDo.Persistence.pdb
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Persistence\obj\Debug\net6.0\ToDo.Persistence.genruntimeconfig.cache
+C:\Users\Bazo\source\repos\AleksandreAndguladze\Day_50\ToDo.API\ToDo.Persistence\obj\Debug\net6.0\ref\ToDo.Persistence.dll

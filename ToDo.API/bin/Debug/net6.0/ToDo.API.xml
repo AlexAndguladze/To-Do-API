@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ToDo.API</name>
+    </assembly>
+    <members>
+        <member name="M:ToDo.API.Controllers.ToDoController.GetUserId">
+            <summary>
+            Gets ID of authorzed user
+            </summary>
+        </member>
+        <member name="M:ToDo.API.Controllers.ToDoController.UpdateStatus(System.Threading.CancellationToken,System.Int32,ToDo.Domain.Statuses.Status)">
+            <summary>
+            Updates to-do status: 0 - Active, 1 - Done
+            </summary>
+        </member>
+        <member name="M:ToDo.API.Controllers.ToDoController.GetAll(System.Threading.CancellationToken)">
+            <summary>
+            Returns all To-Dos of authorzed user
+            </summary>
+        </member>
+    </members>
+</doc>

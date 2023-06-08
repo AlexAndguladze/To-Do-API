@@ -1,0 +1,44 @@
+﻿
+---- Exception Log ----
+{"LogLevel":2,"Code":"ItemNotFoundException","TraceId":"0HMOMCECBCLF6:00000013","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"Item does not exist","Status":404,"Detail":null,"Instance":"/api/ToDo/1515","Extensions":{"TraceId":"0HMOMCECBCLF6:00000013"}}
+---- Request Log ----
+IP = 127.0.0.1
+Scheme = https
+Host = localhost:7076
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User/LogIn
+Body = {
+  "username": "alex2",
+  "password": "alex12345"
+}
+Request Time = 2/24/2023 5:07:32 PM
+
+---- Response Log ----
+Response Time = 2/24/2023 5:07:43 PM
+Status = 200
+Headers = Key: Content-Type | value: text/plain; charset=utf-8
+Body = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIxMDA3IiwibmJmIjoxNjc3MjQ0MDYyLCJleHAiOjE2NzcyNDQ2NjIsImlhdCI6MTY3NzI0NDA2MiwiaXNzIjoibG9jYWxob3N0IiwiYXVkIjoibG9jYWxob3N0In0.nlTp2LC37kVwBQ7k0YZ_mLN_9gtOnM_DNOcnTfIyVT8
+ContentType = text/plain; charset=utf-8
+---- Request Log ----
+IP = 127.0.0.1
+Scheme = https
+Host = localhost:7076
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/ToDo
+Body = 
+Request Time = 2/24/2023 5:07:56 PM
+
+---- Response Log ----
+Response Time = 2/24/2023 5:07:57 PM
+Status = 200
+Headers = Key: Content-Type | value: application/json; charset=utf-8
+Body = [{"id":1004,"title":"Bake cake","status":"Active","completionDate":"2023-03-23T12:07:03.889","subtasks":[]},{"id":1005,"title":"Eat cake","status":"Active","completionDate":"2023-03-23T12:11:03.889","subtasks":[{"title":"Cut the cake"}]}]
+ContentType = application/json; charset=utf-8
+---- Exception Log ----
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMOMDOUU6B7K:0000000F","Type":null,"Title":"Could not find file 'C:\\Users\\Bazo\\source\\repos\\AleksandreAndguladze\\Day_50\\ToDo.API\\ToDo.API\\bin\\Debug\\net6.0\\ToDo.API.xml'.","Status":500,"Detail":null,"Instance":"/swagger/index.html","Extensions":{"TraceId":"0HMOMDOUU6B7K:0000000F"}}
+---- Exception Log ----
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMOMDS1E8RFK:0000000F","Type":null,"Title":"Could not find file 'C:\\Users\\Bazo\\source\\repos\\AleksandreAndguladze\\Day_50\\ToDo.API\\ToDo.API\\bin\\Debug\\net6.0\\ToDo.API.xml'.","Status":500,"Detail":null,"Instance":"/swagger/index.html","Extensions":{"TraceId":"0HMOMDS1E8RFK:0000000F"}}
